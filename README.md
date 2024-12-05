@@ -1,10 +1,31 @@
-# ShareIt
+# ShareIt File Sharing Project  
 
-Built a Full-stack Web application where A User can upload a file and after that share it with his/her friends by the Unique link generated to download that file upto 1GB.
+A robust and user-friendly platform for sharing files securely and efficiently. ShareIt enables users to upload, share, and download files seamlessly with an intuitive interface and reliable backend support.  
 
-The Backend Comprises of server made using ExpressJs and NodeJs integrated with MongoDB to store files uploaded by users. Frontend is made using HTML,CSS.
+## Features  
+- **Fast and Secure File Sharing:** Upload files and generate shareable links.  
+- **Real-time Notifications:** Get updates when files are downloaded or accessed.  
+- **Cross-platform Support:** Accessible from mobile, tablet, and desktop browsers.  
+- **User Authentication:** Secure access via login and registration.  
+- **Search and Filter Files:** Quickly locate shared files using search or filters.  
 
-https://share-it-front-end-html.vercel.app/
+## Technologies Used  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js with Express.js  
+- **Database:** MongoDB  
+- **Deployment:** Heroku 
+
+## Live Demo  
+Check out the live application here:  
+👉 [ShareIt File Sharing](https://share-it-front-end-html.vercel.app/)
+
+### Prerequisites  
+Ensure you have the following installed on your system:  
+- Node.js and npm  
+- MongoDB (or configure with MongoDB Atlas)  
+- Git  
+
+
 
 ![image](https://github.com/Uday-Berad22/ShareIt_FrontEnd/assets/120621657/cc41dfe5-4111-4726-a667-98177f8d6a61)
 
